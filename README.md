@@ -1,10 +1,10 @@
 # Taxi-Duration-Predictor
 This repository contains the code for predicting the duration of taxi trips using multiple linear regression. The goal of the project is to estimate the duration of a taxi trip based on various factors such as pickup and dropoff locations, passenger count, and pickup datetime.
 
-#Dataset
+# Dataset
 The project uses two datasets: train.csv and test.csv. The train.csv dataset is used for training the model, while the test.csv dataset is used for evaluating the model's performance.
 
-#Usage
+# Usage
 To use this project, follow these steps:
 
 Clone the repository:
@@ -15,7 +15,7 @@ Run the code to train the model on the train.csv dataset.
 
 Once the model is trained, run the code to predict the taxi trip durations on the test.csv dataset.
 
-#Results
+# Results
 The predicted durations for the taxi trips will be displayed or stored in a file for further analysis.
 
 #Contributing

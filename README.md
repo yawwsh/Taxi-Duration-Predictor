@@ -18,7 +18,7 @@ Once the model is trained, run the code to predict the taxi trip durations on th
 # Results
 The predicted durations for the taxi trips will be displayed or stored in a file for further analysis.
 
-#Contributing
+# Contributing
 Contributions to this project are welcome. Some ideas for contributions include:
 
 Improving the model's performance.
